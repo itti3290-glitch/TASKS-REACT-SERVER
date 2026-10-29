@@ -31,7 +31,6 @@ npm run dev
 מריצים מתוך התיקייה הזאת:
 
 - יצירת מנהל: `node --env-file=.env scripts/create-admin.js EMAIL PASSWORD`
-- נתוני דוגמה (שני מטופלים, שני מתנדבים ומשימות; בטוח להרצה חוזרת): `node --env-file=.env scripts/seed-demo.js`
 
 ## נתיבי ה-API
 
